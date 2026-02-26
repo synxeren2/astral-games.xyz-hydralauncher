@@ -1,0 +1,11 @@
+{
+  "id": "astral-games",
+  "name": "Astral Games",
+  "description": "Astral Games - Oyun indirme kaynağı",
+  "version": "1.0.0",
+  "author": "Hydra Plugin",
+  "icon": "https://astral-games.xyz/favicon.ico",
+  "language": "tr",
+  "baseUrl": "https://astral-games.xyz",
+  "type": "source"
+}
